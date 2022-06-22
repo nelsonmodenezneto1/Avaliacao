@@ -152,6 +152,7 @@
             this.btnDepositar.TabIndex = 3;
             this.btnDepositar.Text = "DEPOSITAR";
             this.btnDepositar.UseVisualStyleBackColor = false;
+            this.btnDepositar.Click += new System.EventHandler(this.btnDepositar_Click);
             // 
             // btnSacar
             // 
@@ -162,6 +163,7 @@
             this.btnSacar.TabIndex = 4;
             this.btnSacar.Text = "SACAR";
             this.btnSacar.UseVisualStyleBackColor = false;
+            this.btnSacar.Click += new System.EventHandler(this.btnSacar_Click);
             // 
             // btnSair
             // 
@@ -172,6 +174,7 @@
             this.btnSair.TabIndex = 5;
             this.btnSair.Text = "SAIR";
             this.btnSair.UseVisualStyleBackColor = false;
+            this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
             // 
             // groupBox2
             // 
@@ -244,6 +247,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "frmMovimento";
             this.Text = "Movimento de Contas";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmMovimento_FormClosing);
             this.Load += new System.EventHandler(this.frmMovimento_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
