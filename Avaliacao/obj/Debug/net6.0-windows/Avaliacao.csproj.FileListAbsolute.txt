@@ -1,0 +1,17 @@
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\bin\Debug\net6.0-windows\Avaliacao.exe
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\bin\Debug\net6.0-windows\Avaliacao.deps.json
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\bin\Debug\net6.0-windows\Avaliacao.runtimeconfig.json
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\bin\Debug\net6.0-windows\Avaliacao.dll
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\bin\Debug\net6.0-windows\Avaliacao.pdb
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\obj\Debug\net6.0-windows\Avaliacao.csproj.AssemblyReference.cache
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\obj\Debug\net6.0-windows\Avaliacao.frmMovimento.resources
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\obj\Debug\net6.0-windows\Avaliacao.csproj.GenerateResource.cache
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\obj\Debug\net6.0-windows\Avaliacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\obj\Debug\net6.0-windows\Avaliacao.AssemblyInfoInputs.cache
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\obj\Debug\net6.0-windows\Avaliacao.AssemblyInfo.cs
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\obj\Debug\net6.0-windows\Avaliacao.csproj.CoreCompileInputs.cache
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\obj\Debug\net6.0-windows\Avaliacao.dll
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\obj\Debug\net6.0-windows\refint\Avaliacao.dll
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\obj\Debug\net6.0-windows\Avaliacao.pdb
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\obj\Debug\net6.0-windows\Avaliacao.genruntimeconfig.cache
+C:\Users\Nelso\source\repos\Avaliacao\Avaliacao\obj\Debug\net6.0-windows\ref\Avaliacao.dll
